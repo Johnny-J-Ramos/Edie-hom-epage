@@ -88,5 +88,5 @@ $ npm start
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- LikedIn [](https://www.linkedin.com/in/johnny-jefferson1010/})
+- LikedIn [linkedin.com](https://www.linkedin.com/in/johnny-jefferson1010/})
 - Instagram [@your-twitter](https://{twitter.com/your-username})
